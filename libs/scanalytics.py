@@ -1,7 +1,6 @@
-import numpy as np
+from utilities.std_imports import *
 import operator
 from IPython.display import display
-import pandas as pd
 from pulp import *
 
 #Clarke-Wright Savings Algorithm

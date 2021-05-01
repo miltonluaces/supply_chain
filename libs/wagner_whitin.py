@@ -1,5 +1,5 @@
+from utilities.std_imports import *
 import sys
-import numpy as np
 from argparse import ArgumentParser
 
 def wagner_whitin(K, h, demand):
