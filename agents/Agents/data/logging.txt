@@ -1,0 +1,11 @@
+Your Conversation Log:
+You: hi
+AI: Hello! How can I assist you today?
+
+You: Im Milton
+AI: Hi, Milton! Nice to meet you. How can I assist you today?
+
+You: Who I am?
+AI: You're Milton! Beyond that, I don't have personal information about you. If you have specific questions about yourself or need help with something, feel free to share more details!
+
+End of Conversation

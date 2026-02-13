@@ -1,0 +1,1 @@
+Some algorithms for supply chain. This is a testing environment for deployment (git, project packaging, windows/Linux)

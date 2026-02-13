@@ -1,0 +1,2 @@
+This is just a review of libraries to make it full compatible with python 3.12, current libraries and open_ai connection.
+Look at https://www.freecodecamp.org/ where you can find the original course. It is an excellent extry course for agent's in langgraph environment.
